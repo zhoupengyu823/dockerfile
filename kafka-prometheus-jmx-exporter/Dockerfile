@@ -1,0 +1,2 @@
+FROM solsson/kafka-prometheus-jmx-exporter@sha256:d237a12cc0cde42b539bcb5efc0008ba5e6ca1351b7843ed52bd574d181c5efd
+MAINTAINER ZHOU
