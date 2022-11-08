@@ -1,0 +1,2 @@
+FROM quay.io/cloudhut/kminion:v2.1.0@sha256:99e3217ec4a6a61a0eb68da86d3f2c16fa9847a6db8498fea74044935096353b
+MAINTAINER ZHOU
